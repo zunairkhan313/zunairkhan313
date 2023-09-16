@@ -21,7 +21,7 @@
 
 - 📱 My E-commerce Website [(https://zunairkhan313.github.io/E-Commerce-Website/)]
 
-- ⚡ MS WORD CLONE [Word / Zunair]([https://github.com/zunairkhan313/ms-word])
+- ⚡ MS WORD CLONE [(https://github.com/zunairkhan313/ms-word)]
 
 - 💬 Ask me about **Front End Development || Web Designing**
 
