@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently working on [**Whatsapp Clone with Firebase**]
 
-- 🌱 I’m currently learning **Java Script**
+- 🌱 I’m currently learning **React.js**
 
 - 👨‍💻 All of my projects are available at [Github]((https://github.com/zunairkhan313))
 
