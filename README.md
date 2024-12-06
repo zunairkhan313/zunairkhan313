@@ -15,15 +15,19 @@
 
 - 🔭 I’m currently working on [**Whatsapp Clone with Firebase**]
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **AI Machine Learning**
 
 - 👨‍💻 All of my projects are available at [Github]((https://github.com/zunairkhan313))
 
-- 📱 My E-commerce Website [(https://zunairkhan313.github.io/E-Commerce-Website/)]
+- 📱 My E-commerce Website1 [(https://www.songchuantools.pk/)]
+- 📱 My E-commerce Website2 [(https://www.changlutools.ae/)]
+- 📱 My E-commerce Website3 [(https://www.cappello.pk/)]
+- 📱 My E-commerce Website4 [(https://alliedsteeldetailing.com/)]
+- 📱 My E-commerce Website5 [(https://www.aeonsoft.com.pk/)]
 
 - ⚡ MS WORD CLONE [(https://zunairkhan313.github.io/ms-word/)]
 
-- 💬 Ask me about **Front End Development || Web Designing**
+- 💬 Ask me about **Front End Development || Backend Development || Full Stack Development**
 
 - ⚡ Fun fact: I use tabs over spaces
 
