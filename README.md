@@ -4,6 +4,12 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;React+%7C+Next.js+%7C+Node.js;MySQL+%7C+Express+%7C+REST+APIs;Building+CRM+%26+Client+Websites" alt="Typing SVG" />
 </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=zunairkhan313&label=Profile%20views&color=0e75b6&style=flat" alt="zunairkhan313" /> </p>
+  <a href="https://www.linkedin.com/in/zunairkhan313-2859bb268/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+<br>
+<br>
 
 ---
 
