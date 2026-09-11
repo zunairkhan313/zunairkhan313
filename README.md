@@ -16,7 +16,7 @@
 
 ### 🚀 About Me
 
-- 🔭 I'm currently building **client websites, CRM systems, and full-stack applications** under **Expert Design Hub**
+- 🔭 I'm currently building **client websites, CRM & HRM systems, and full-stack applications** under **Experts Communication**
 - 💼 Freelancing on **Fiverr** and **Upwork**
 - 🛠️ Comfortable across the stack: **React / Next.js** frontends, **Node.js / Express** backends, and **MySQL** databases
 - 🔗 Recent work: attendance/CRM systems with biometric device integration, Stripe payment integrations, and Next.js deployments on cPanel & Hostinger
@@ -50,7 +50,7 @@
 
 <p align="center">
   <a href="https://portfolio-green-sigma-52.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/zunair-khan-full-stack-software-develope" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="[https://linkedin.com/in/zunair-khan-full-stack-software-developer]" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   
   <a href="https://instagram.com/zunairkhan1345" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
