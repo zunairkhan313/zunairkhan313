@@ -6,7 +6,7 @@
 </p>
 <img src="http://studiopixel.in/wp-content/uploads/2017/11/senior-front-end-developer-openings-1.gif" alt="MarineGEO circle logo" width="60%" align="center">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zunairkhan313&label=Profile%20views&color=0e75b6&style=flat" alt="zunairkhan313" /> </p>
-  <a href="https://www.linkedin.com/in/zunairkhan313-2859bb268/">
+  <a href="https://www.linkedin.com/in/zunair-khan-fullstackdeveloper/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bzg6MLfjXSmejJuAs1zh%2FYg%3D%3D">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 <br>
@@ -50,7 +50,7 @@
 
 <p align="center">
   <a href="https://portfolio-green-sigma-52.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="[https://linkedin.com/in/zunair-khan-full-stack-software-developer]" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/zunair-khan-fullstackdeveloper/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bzg6MLfjXSmejJuAs1zh%2FYg%3D%3D" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   
   <a href="https://instagram.com/zunairkhan1345" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
